@@ -1,2 +1,2 @@
 # app-typechain
-TypeScript bindings for Ethereum smart contracts
+Ethereum TS TypeScript bindings for Ethereum smart contracts
